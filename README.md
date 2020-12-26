@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**karimarkia/karimarkia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<a href="https://reactjs.org/" rel="nofollow"> <img src="https://camo.githubusercontent.com/4c787c5c6189ca6ce26a7f1cf5e5d62c4e5f9de96413adee2643b8fdca490877/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f72656163742f72656163742d6f726967696e616c2d776f72646d61726b2e737667" alt="react" width="40" height="40" data-canonical-src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" style="max-width:100%;"> </a>
