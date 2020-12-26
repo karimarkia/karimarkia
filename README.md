@@ -2,8 +2,8 @@
   Hi there <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji> I'm Karim 
 </h1>
 
-<p align="center" style="margin-bottom:20px; !important">
-  A Full Stack Developer from Israel.
+<p align="center">
+  Full Stack Developer
 </p>
 
 
