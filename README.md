@@ -9,7 +9,7 @@
 
 
 - 🔭 I’m currently working on RecooBooks MERN Project
-- 🌱 I’m currently learning Nodejs, Experss..
+- 🌱 I’m currently learning Nodejs, Experss, MongoDB...
 - 🤔 I’m looking for help with getting a job 😊
 - 📫 How to reach me:  <a href="https://www.linkedin.com/in/karim-arkia/" rel="nofollow"> <img src="https://devicon.dev/devicon.git/icons/linkedin/linkedin-original.svg" alt="linkeden" width="25" height="20"  data-canonical-src="https://devicon.dev/devicon.git/icons/linkedin/linkedin-original.svg" style="max-width:100%;"> </a>
 
